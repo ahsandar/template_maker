@@ -1,0 +1,23 @@
+ahsan:
+  home:
+    address: syon lane
+    post_code: TW7 5NJ
+    county:  Middlesex
+    city: London
+  work:
+    address:  oval road
+    post_code: NW1 7DT
+    county:  Camden
+    city: London
+
+john:
+  home:
+    address:  Twickenham
+    post_code: TW
+    county:  Middlesex
+    city: London
+  work:
+    address:  oval road
+    post_code: NW1 7DT
+    county:  Camden
+    city: London

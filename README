@@ -1,0 +1,4 @@
+rake template:maker[ahsan,work]
+rake template:maker[ahsan,home]
+rake template:maker[john,work]
+rake template:maker[john,home]
